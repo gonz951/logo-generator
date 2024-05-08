@@ -2,16 +2,13 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project was made as a means of learning how to use jest and inquirer in a different way. This was also useful in terms of figuring out the limits of 'module.exports' and the like. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This project also solves the problem of not knowing how to make a proper logo for a website. Instead of mulling over mspaint or some other site for awhile, one could simply produce a logo here to use instead. 
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+No installation available. It's only used as the code found in this repository.
 
 ## Usage
 
@@ -25,11 +22,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Adding text to svgs:
+https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Texts
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+Used to test out the svg shapes:
+https://www.w3schools.com/graphics/tryit.asp?filename=trysvg_fill0
 
-If you followed tutorials, include links to those here as well.
+Making a triangle: 
+https://www.w3schools.com/graphics/svg_polygon.asp
 
 ## License
 
