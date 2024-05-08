@@ -12,13 +12,7 @@ No installation available. It's only used as the code found in this repository.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Video guide: https://drive.google.com/file/d/1x75nBtRx-uF9M7g3YgPvl8BO1rTw9X6c/view?usp=sharing 
 
 ## Credits
 
